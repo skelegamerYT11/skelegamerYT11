@@ -106,12 +106,6 @@ Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per 
 
 ---
 
-## 📫 Contatti
-- 🌍 Website  
-- 📧 Email  
-
----
-
 ## 💝 Supporta il progetto
 - ⭐ Metti una stella ai repo  
 - 🔄 Condividi  
