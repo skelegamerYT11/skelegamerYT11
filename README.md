@@ -70,8 +70,7 @@ Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per 
 
 ## 📊 Statistiche GitHub
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MrSkele&show_icons=true&theme=tokyonight"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSkele&layout=compact&theme=tokyonight"/>
 </p>
 
