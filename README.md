@@ -33,7 +33,6 @@ Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per 
 <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
@@ -42,14 +41,13 @@ Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per 
 - Python - Scripting e data analysis  
 - Shell Script - Automazione di sistema  
 - HTML/CSS - Web design  
-- Lua - Configurazioni avanzate  
 - Batch - Automazione Windows  
 - C++ - Programmazione di sistema  
 
 ---
 
 ### 🌐 Web Development
-- Frontend: HTML, CSS, JavaScript, React, Next.js  
+- Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express  
 - Server: Nginx, Apache  
 - API: REST  
@@ -64,19 +62,9 @@ Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per 
 
 ---
 
-### ☁️ DevOps & Cloud
-- Docker / Docker Compose  
-- AWS (EC2, S3, Lambda)  
-- Git & GitHub  
-- Linux / Windows Server  
-
----
-
 ### 🔧 IoT & Hardware
 - Arduino / Raspberry Pi  
 - HTTP / WebSocket  
-- Sensori (temperatura, movimento, ecc.)  
-- Domotica  
 
 ---
 
@@ -95,11 +83,6 @@ Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per 
 
 ## 🌱 Progetti in Evidenza
 
-### 🏠 IoT e Domotica
-- Automazione domestica  
-- Monitoraggio sensori  
-- Controllo remoto  
-
 ### 🔒 Sicurezza Informatica
 - Tool per penetration testing  
 - Hardening Linux  
@@ -117,35 +100,20 @@ Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per 
 
 ---
 
-## 📝 Contenuti e Community
-- 📺 YouTube  
-- 🎮 Twitch  
-- 📖 Blog  
-- 💬 Discord  
-
----
-
-## 🎯 Obiettivi 2025
+## 🎯 Obiettivi 2026
 - Espandere progetti IoT  
-- Creare tool open-source  
-- Raggiungere 1k follower  
+- Creare tool open-source   
 
 ---
 
 ## 📫 Contatti
 - 🌍 Website  
 - 📧 Email  
-- 📺 YouTube  
-- 🎮 Twitch  
 
 ---
 
 ## 💝 Supporta il progetto
 - ⭐ Metti una stella ai repo  
 - 🔄 Condividi  
-- 💰 Donazioni  
 
 ---
-
-## 📄 Licenza
-Progetti generalmente sotto licenza MIT.
