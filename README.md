@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="https://skelegamerYT11.github.io"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+<a href="https://github.com/skelegamerYT11"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
