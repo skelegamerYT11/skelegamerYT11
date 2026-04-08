@@ -81,25 +81,6 @@ Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per 
 
 ---
 
-## 🌱 Progetti in Evidenza
-
-### 🔒 Sicurezza Informatica
-- Tool per penetration testing  
-- Hardening Linux  
-- Analisi vulnerabilità  
-
-### 📚 Contenuti Educativi
-- Tutorial step-by-step  
-- Progetti pratici  
-- Guide tecniche  
-
-### 🤖 Automazione
-- Script automatici  
-- Bot Discord / social  
-- Workflow  
-
----
-
 ## 🎯 Obiettivi 2026
 - Espandere progetti IoT  
 - Creare tool open-source   
