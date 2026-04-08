@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Chi sono
-Sono un tecnico informatico con una passione per l'innovazione tecnologica e la sicurezza informatica.  
+Sono un tecnico informatico con una passione per la sicurezza informatica.  
 Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per la community tech.
 
 ---
