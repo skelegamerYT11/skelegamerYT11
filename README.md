@@ -1,6 +1,6 @@
-# 👋 Ciao, sono TUONOME
+# 👋 Ciao, sono MrSkele
 
-💻 Tecnico informatico | 🔐 Cybersecurity | 🚀 Content Creator
+💻 informatico | 🔐 Cybersecurity 
 
 ---
 
