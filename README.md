@@ -1,14 +1,12 @@
 <h1 align="center">👋 Ciao, sono MrSkele</h1>
 
 <p align="center">
-💻 Tecnico Informatico | 🔐 Cybersecurity | 🚀 Content Creator
+💻 Tecnico Informatico | 🔐 Cybersecurity
 </p>
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch"></a>
 </p>
 
 ---
