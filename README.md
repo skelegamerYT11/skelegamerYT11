@@ -19,14 +19,12 @@
 ---
 
 ## 🚀 Chi sono
-Sono un tecnico informatico con una passione per la sicurezza informatica.  
-Mi dedico allo sviluppo di soluzioni creative e alla creazione di contenuti per la community tech.
-
+Mi chiamo Andrea, appassionato di tecnologia e sicurezza informatica.
+Passo il mio tempo libero a sviluppare progetti personali, e sperimentare con ambienti Linux, infrastrutture di rete.
 ---
 
 ## 🛠️ Tecnologie e Strumenti
 
-### 💻 Linguaggi di Programmazione
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
