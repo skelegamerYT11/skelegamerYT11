@@ -1,7 +1,7 @@
 <h1 align="center">👋 Ciao, sono MrSkele</h1>
 
 <p align="center">
-💻 Tecnico Informatico | 🔐 Cybersecurity
+| 🔐 Cybersecurity
 </p>
 
 <p align="center">
