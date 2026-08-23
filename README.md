@@ -35,41 +35,6 @@ Passo il mio tempo libero a sviluppare progetti personali, e sperimentare con am
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-- JavaScript - Sviluppo web e automazione  
-- Python - Scripting e data analysis  
-- Shell Script - Automazione di sistema  
-- HTML/CSS - Web design  
-- Batch - Automazione Windows  
-- C++ - Programmazione di sistema  
-
----
-
-### 🌐 Web Development
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express  
-- Server: Nginx, Apache  
-- API: REST  
-
----
-
-### 🗄️ Database
-- MySQL  
-- MariaDB  
-- SQLite  
-- MongoDB  
-
----
-
-### 🔧 IoT & Hardware
-- Arduino / Raspberry Pi  
-- HTTP / WebSocket  
-
----
-
-## 🎯 Obiettivi 2026
-- Espandere progetti IoT  
-- Creare tool open-source   
-
 ---
 
 ## 💝 Supporta il progetto
