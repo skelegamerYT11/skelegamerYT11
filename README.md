@@ -1,7 +1,7 @@
 <h1 align="center">👋 Ciao, sono MrSkele</h1>
 
 <p align="center">
-| 🔐 Cybersecurity
+🔐 Cybersecurity
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MrSkele&label=Profile%20Views&color=blue&style=flat" />
-<img src="https://img.shields.io/github/followers/MrSkele?label=Followers&style=flat" />
 </p>
 
 ---
