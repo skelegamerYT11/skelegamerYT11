@@ -4,7 +4,6 @@
   
   <p>
     <a href="https://skelegamerYT11.github.io"><img src="https://img.shields.io/badge/Website-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-    <a href="https://ko-fi.com/mrskele"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
     <a href="https://github.com/skelegamerYT11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
   
