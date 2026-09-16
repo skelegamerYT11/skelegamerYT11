@@ -1,9 +1,10 @@
 <div align="center">
-  <h1>👋 Hi, I'm MrSkele</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+MrSkele" alt="👋 Hi, I'm MrSkele" />
   <p><strong>🔐 Cybersecurity Enthusiast & Developer</strong></p>
   
   <p>
     <a href="https://skelegamerYT11.github.io"><img src="https://img.shields.io/badge/Website-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+    <a href="https://ko-fi.com/mrskele"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
     <a href="https://github.com/skelegamerYT11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
   
@@ -66,5 +67,5 @@ If you find my projects interesting or useful, feel free to support them:
 
 - ⭐ **Star** my repositories 
 - 🔄 **Share** them with others
-
+- ☕ **Tip me on Ko-fi:** [ko-fi.com/mrskele](https://ko-fi.com/mrskele)
 ---
