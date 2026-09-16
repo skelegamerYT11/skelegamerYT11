@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+MrSkele" alt="👋 Hi, I'm MrSkele" />
+  <h1>👋 Hi, I'm MrSkele</h1>
   <p><strong>🔐 Cybersecurity Enthusiast & Developer</strong></p>
   
   <p>
